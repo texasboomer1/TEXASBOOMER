@@ -1,0 +1,195 @@
+
+.top-container{
+    background-color: rgb(177, 252, 255);
+    position: relative;
+    
+}
+body{
+    margin:0px;
+    text-align: center;
+    font-family: 'Merriweather',serif;
+}
+h1{
+    color: #66bfbf;
+    margin-top: 50px;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.5rem;
+    
+}
+h2{ 
+    color: #11999e;
+    font-family: 'Monserrat',sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+    margin: 50px auto 0 auto;
+    
+
+}
+h3{
+    font-family: 'Monserrat',sans-serif;
+
+}
+.Andys-Drawing-Profile{
+    background-size: 150px;
+    width: 300px;
+    height: 300px;
+    border: 2px;
+    color:rgb(92,193,252);
+    border-radius: 180px;
+    
+
+}
+.Hero-Squirrels{
+    background-size: 150px;
+    width: 200px;
+    height: 200px;
+    color:rgb(92,193,252);
+    border-radius: 180px;
+    float: left;
+    margin-left: 200px;
+}
+.skills{
+    text-align: left;
+    margin: 100px
+}
+
+.middle-container{
+    background-color: rgb(205, 236, 255);
+    
+
+    
+
+}
+.bottom-container{
+    background-color: rgb(92,193,252);
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0 auto 0 auto;
+    padding: 50px 0 20px;
+
+}
+.Navigation{
+    background-color: rgb(205, 236, 255);
+    position: fixed;
+    top: 0px;
+    right: 0px;
+    left: 0px;
+    word-spacing: 20px;
+
+
+}
+nav{
+    width:100%;
+    height: 60px;
+}
+nav p{
+    font-family: arial;
+    color: #222;
+    font-size: 24px;
+    line-height: 20px;
+    float:left;
+    padding: 2px;
+}
+nav ul{
+    float: left;
+
+}
+nav ul li{
+    float: left;
+    list-style: none;
+    position: relative;
+
+}
+nav ul li a{
+    display:block;
+    font-family: arial;
+    color: #000000;
+    font-size: 14px;
+    padding: 20px;
+    text-decoration:none;
+}
+
+
+.SAM-BOT{
+    position: absolute;
+    left: 50px;
+    top: 750px;
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 20px;
+}
+.top-cloud-image{
+    position: absolute;
+    right: 450px;
+    top: 300px;
+}
+.bottom-cloud-image{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+    word-spacing: 50px;
+    margin-top: 100px;
+}
+.sunset-painting{
+    background-size: 150px;
+    border: 2px;
+    border-radius: 180px;
+    color:rgb(92,193,252);
+    height: 200px;
+    width: 200px;
+    float: left;
+    margin-right: 30px;
+
+}
+.contact-me{
+    width:30%;
+    margin: 40px auto 60px
+}
+.btn {
+    background: #3498db;
+    background-image: -webkit-linear-gradient(top, #3498db, #164969);
+    background-image: -moz-linear-gradient(top, #3498db, #164969);
+    background-image: -ms-linear-gradient(top, #3498db, #164969);
+    background-image: -o-linear-gradient(top, #3498db, #164969);
+    background-image: linear-gradient(to bottom, #3498db, #164969);
+    -webkit-border-radius: 27;
+    -moz-border-radius: 27;
+    border-radius: 8px;
+    text-shadow: 1px 1px 3px #000000;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 18px;
+    padding: 10px 20px 10px 20px;
+    border: solid #596487 1px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #3c89fc;
+    text-decoration: none;
+  }
+  p {
+    line-height:  20px;
+  }
+  hr{
+    border: dotted #EAF6F6 6px;
+    border-bottom: none;
+    width:4%;
+    margin:100px auto;
+  }
+  a{
+    color:#11999e;
+    font-family:'Montserrat', sans-serif;
+    text-decoration: none;
+  }
+  a:hover{
+    color: #EAF6F6;
+  }
+  .copyright{
+    color:#EAF6F6;
+    font-size: 0.75rem;
+    padding: 20px 0;
+  }
+  
